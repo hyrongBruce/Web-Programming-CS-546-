@@ -1,0 +1,19 @@
+{
+  "name": "lab-3",
+  "version": "1.0.0",
+  "description": "Async-Await",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Async-Await",
+    "textMetric"
+  ],
+  "author": "Haoyu Rong 10438329",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2"
+  }
+}
